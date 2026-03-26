@@ -107,7 +107,7 @@ python app.py
 
 ## GitHub
 
-[https://github.com/EzraBolo/Mental-Disorder-Diagnosis-ML](https://github.com/EzraBolo/Mental-Disorder-Diagnosis-ML)
+https://github.com/Omurwa01/mentaldisorderAI.git
 
 ---
 
